@@ -1,0 +1,9 @@
+name: abn_postcode
+dependencies:
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - pip:
+    - jupyterlab
+    - setuptools
